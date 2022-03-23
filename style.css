@@ -6,7 +6,7 @@
 }
 body {
     font-family: 'Sora', sans-serif;
-    overflow:hidden;
+    overflow-y:hidden;
 }
 .app {
     height: 100vh;
