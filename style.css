@@ -35,9 +35,12 @@ header h1{
                  -32px 32px #f9a825,
                  -36px 36px #ff5722;
 }
+header h1 span {
+    color:black;
+}
 header p{
     font-size: 15px;
-    padding:15px 0;
+    padding:10px 0;
 }
 .pads {
     background: lightblue;
