@@ -37,7 +37,7 @@ header h1{
 }
 header p{
     font-size: 15px;
-    display: inline;
+    padding:15px 0;
 }
 .pads {
     background: lightblue;
